@@ -35,7 +35,7 @@ def create_gui(root):
     resolution_var = tk.StringVar(value='720p')
     resolution_label = tk.Label(root, text="Select video resolution:")
     resolution_label.pack()
-    resolution_dropdown = tk.OptionMenu(root, resolution_var, '1080p', '720p', '480p', '360p')
+    resolution_dropdown = tk.OptionMenu(root, resolution_var, '720p', '480p', '360p')
     resolution_dropdown.pack()
 
     convert_var = tk.BooleanVar()
