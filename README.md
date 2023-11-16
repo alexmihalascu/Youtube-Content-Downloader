@@ -17,7 +17,8 @@ Youtube-Content-Downloader is an efficient Python tool for downloading videos fr
 
 ### Prerequisites
 - Python 3.x
-- [Other dependencies or libraries]
+- PyTube
+- MoviePy
 
 ### Steps
 Clone the repository and set up the environment:
