@@ -6,7 +6,7 @@ Youtube-Content-Downloader is an efficient Python tool for downloading videos fr
 ## Features
 - **Video Download:** Download individual YouTube videos.
 - **Quality Selection:** Choose the preferred video quality for downloads.
-- **User-Friendly Interface:** Easy to use command-line interface.
+- **User-Friendly Interface:** Easy to use application.
 - **Cross-Platform:** Compatible with Windows, MacOS, and Linux systems.
 
 ## Images
